@@ -1,6 +1,5 @@
 # Effect-of-Feature-Count-on-Hyperparameter-Tuning-Original-Noisy-and-PCA-Reduced-Features
 
-This repository demonstrates the effect of the number of features on hyperparameter tuning in machine learning models. The project covers three scenarios:
 1. **Original Features**: Using the dataset with its original features.
 2. **Noisy Features**: Adding noisy, irrelevant features to the dataset and observing the impact on model performance and hyperparameter tuning.
 3. **PCA-Reduced Features**: Applying Principal Component Analysis (PCA) for dimensionality reduction and observing the effect on hyperparameter tuning.
